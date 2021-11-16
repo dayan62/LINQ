@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\SelectinLINQ\SelectinLINQ\bin\Debug\SelectinLINQ.exe.config
+C:\Users\Dayan\source\repos\SelectinLINQ\SelectinLINQ\bin\Debug\SelectinLINQ.exe
+C:\Users\Dayan\source\repos\SelectinLINQ\SelectinLINQ\bin\Debug\SelectinLINQ.pdb
+C:\Users\Dayan\source\repos\SelectinLINQ\SelectinLINQ\obj\Debug\SelectinLINQ.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\SelectinLINQ\SelectinLINQ\obj\Debug\SelectinLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\SelectinLINQ\SelectinLINQ\obj\Debug\SelectinLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\SelectinLINQ\SelectinLINQ\obj\Debug\SelectinLINQ.exe
+C:\Users\Dayan\source\repos\SelectinLINQ\SelectinLINQ\obj\Debug\SelectinLINQ.pdb

@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\Reverse\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\Dayan\source\repos\Reverse\Reverse\bin\Debug\Reverse.exe
+C:\Users\Dayan\source\repos\Reverse\Reverse\bin\Debug\Reverse.pdb
+C:\Users\Dayan\source\repos\Reverse\Reverse\obj\Debug\Reverse.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\Reverse\Reverse\obj\Debug\Reverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\Reverse\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\Reverse\Reverse\obj\Debug\Reverse.exe
+C:\Users\Dayan\source\repos\Reverse\Reverse\obj\Debug\Reverse.pdb

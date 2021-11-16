@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\groupjoinc\groupjoinc\bin\Debug\groupjoinc.exe.config
+C:\Users\Dayan\source\repos\groupjoinc\groupjoinc\bin\Debug\groupjoinc.exe
+C:\Users\Dayan\source\repos\groupjoinc\groupjoinc\bin\Debug\groupjoinc.pdb
+C:\Users\Dayan\source\repos\groupjoinc\groupjoinc\obj\Debug\groupjoinc.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\groupjoinc\groupjoinc\obj\Debug\groupjoinc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\groupjoinc\groupjoinc\obj\Debug\groupjoinc.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\groupjoinc\groupjoinc\obj\Debug\groupjoinc.exe
+C:\Users\Dayan\source\repos\groupjoinc\groupjoinc\obj\Debug\groupjoinc.pdb

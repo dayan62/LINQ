@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\Orderby\Orderby\bin\Debug\Orderby.exe.config
+C:\Users\Dayan\source\repos\Orderby\Orderby\bin\Debug\Orderby.exe
+C:\Users\Dayan\source\repos\Orderby\Orderby\bin\Debug\Orderby.pdb
+C:\Users\Dayan\source\repos\Orderby\Orderby\obj\Debug\Orderby.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\Orderby\Orderby\obj\Debug\Orderby.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\Orderby\Orderby\obj\Debug\Orderby.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\Orderby\Orderby\obj\Debug\Orderby.exe
+C:\Users\Dayan\source\repos\Orderby\Orderby\obj\Debug\Orderby.pdb

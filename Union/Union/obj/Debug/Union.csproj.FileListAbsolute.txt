@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\Union\Union\bin\Debug\Union.exe.config
+C:\Users\Dayan\source\repos\Union\Union\bin\Debug\Union.exe
+C:\Users\Dayan\source\repos\Union\Union\bin\Debug\Union.pdb
+C:\Users\Dayan\source\repos\Union\Union\obj\Debug\Union.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\Union\Union\obj\Debug\Union.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\Union\Union\obj\Debug\Union.exe
+C:\Users\Dayan\source\repos\Union\Union\obj\Debug\Union.pdb
+C:\Users\Dayan\source\repos\Union\Union\obj\Debug\Union.csproj.AssemblyReference.cache

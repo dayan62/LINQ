@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\SelectMany\SelectMany\bin\Debug\SelectMany.exe.config
+C:\Users\Dayan\source\repos\SelectMany\SelectMany\bin\Debug\SelectMany.exe
+C:\Users\Dayan\source\repos\SelectMany\SelectMany\bin\Debug\SelectMany.pdb
+C:\Users\Dayan\source\repos\SelectMany\SelectMany\obj\Debug\SelectMany.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\SelectMany\SelectMany\obj\Debug\SelectMany.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\SelectMany\SelectMany\obj\Debug\SelectMany.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\SelectMany\SelectMany\obj\Debug\SelectMany.exe
+C:\Users\Dayan\source\repos\SelectMany\SelectMany\obj\Debug\SelectMany.pdb

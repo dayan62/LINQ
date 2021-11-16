@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\Paging\Paging\bin\Debug\Paging.exe.config
+C:\Users\Dayan\source\repos\Paging\Paging\bin\Debug\Paging.exe
+C:\Users\Dayan\source\repos\Paging\Paging\bin\Debug\Paging.pdb
+C:\Users\Dayan\source\repos\Paging\Paging\obj\Debug\Paging.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\Paging\Paging\obj\Debug\Paging.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\Paging\Paging\obj\Debug\Paging.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\Paging\Paging\obj\Debug\Paging.exe
+C:\Users\Dayan\source\repos\Paging\Paging\obj\Debug\Paging.pdb

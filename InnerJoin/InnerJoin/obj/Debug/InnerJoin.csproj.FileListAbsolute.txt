@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\InnerJoin\InnerJoin\bin\Debug\InnerJoin.exe.config
+C:\Users\Dayan\source\repos\InnerJoin\InnerJoin\bin\Debug\InnerJoin.exe
+C:\Users\Dayan\source\repos\InnerJoin\InnerJoin\bin\Debug\InnerJoin.pdb
+C:\Users\Dayan\source\repos\InnerJoin\InnerJoin\obj\Debug\InnerJoin.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\InnerJoin\InnerJoin\obj\Debug\InnerJoin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\InnerJoin\InnerJoin\obj\Debug\InnerJoin.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\InnerJoin\InnerJoin\obj\Debug\InnerJoin.exe
+C:\Users\Dayan\source\repos\InnerJoin\InnerJoin\obj\Debug\InnerJoin.pdb

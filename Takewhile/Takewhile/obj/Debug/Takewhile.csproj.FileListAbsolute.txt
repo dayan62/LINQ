@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\Takewhile\Takewhile\bin\Debug\Takewhile.exe.config
+C:\Users\Dayan\source\repos\Takewhile\Takewhile\bin\Debug\Takewhile.exe
+C:\Users\Dayan\source\repos\Takewhile\Takewhile\bin\Debug\Takewhile.pdb
+C:\Users\Dayan\source\repos\Takewhile\Takewhile\obj\Debug\Takewhile.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\Takewhile\Takewhile\obj\Debug\Takewhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\Takewhile\Takewhile\obj\Debug\Takewhile.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\Takewhile\Takewhile\obj\Debug\Takewhile.exe
+C:\Users\Dayan\source\repos\Takewhile\Takewhile\obj\Debug\Takewhile.pdb

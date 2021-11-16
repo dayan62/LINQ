@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\thenby\thenby\bin\Debug\thenby.exe.config
+C:\Users\Dayan\source\repos\thenby\thenby\bin\Debug\thenby.exe
+C:\Users\Dayan\source\repos\thenby\thenby\bin\Debug\thenby.pdb
+C:\Users\Dayan\source\repos\thenby\thenby\obj\Debug\thenby.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\thenby\thenby\obj\Debug\thenby.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\thenby\thenby\obj\Debug\thenby.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\thenby\thenby\obj\Debug\thenby.exe
+C:\Users\Dayan\source\repos\thenby\thenby\obj\Debug\thenby.pdb

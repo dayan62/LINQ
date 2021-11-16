@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\skipwhile\skipwhile\bin\Debug\skipwhile.exe.config
+C:\Users\Dayan\source\repos\skipwhile\skipwhile\bin\Debug\skipwhile.exe
+C:\Users\Dayan\source\repos\skipwhile\skipwhile\bin\Debug\skipwhile.pdb
+C:\Users\Dayan\source\repos\skipwhile\skipwhile\obj\Debug\skipwhile.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\skipwhile\skipwhile\obj\Debug\skipwhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\skipwhile\skipwhile\obj\Debug\skipwhile.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\skipwhile\skipwhile\obj\Debug\skipwhile.exe
+C:\Users\Dayan\source\repos\skipwhile\skipwhile\obj\Debug\skipwhile.pdb

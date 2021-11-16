@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\Take\Take\bin\Debug\Take.exe.config
+C:\Users\Dayan\source\repos\Take\Take\bin\Debug\Take.exe
+C:\Users\Dayan\source\repos\Take\Take\bin\Debug\Take.pdb
+C:\Users\Dayan\source\repos\Take\Take\obj\Debug\Take.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\Take\Take\obj\Debug\Take.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\Take\Take\obj\Debug\Take.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\Take\Take\obj\Debug\Take.exe
+C:\Users\Dayan\source\repos\Take\Take\obj\Debug\Take.pdb

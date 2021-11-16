@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\Leftjoin\Leftjoin\bin\Debug\Leftjoin.exe.config
+C:\Users\Dayan\source\repos\Leftjoin\Leftjoin\bin\Debug\Leftjoin.exe
+C:\Users\Dayan\source\repos\Leftjoin\Leftjoin\bin\Debug\Leftjoin.pdb
+C:\Users\Dayan\source\repos\Leftjoin\Leftjoin\obj\Debug\Leftjoin.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\Leftjoin\Leftjoin\obj\Debug\Leftjoin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\Leftjoin\Leftjoin\obj\Debug\Leftjoin.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\Leftjoin\Leftjoin\obj\Debug\Leftjoin.exe
+C:\Users\Dayan\source\repos\Leftjoin\Leftjoin\obj\Debug\Leftjoin.pdb

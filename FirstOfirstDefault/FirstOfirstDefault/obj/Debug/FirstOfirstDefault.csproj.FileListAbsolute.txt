@@ -1,0 +1,8 @@
+C:\Users\Dayan\source\repos\FirstOfirstDefault\FirstOfirstDefault\bin\Debug\FirstOfirstDefault.exe.config
+C:\Users\Dayan\source\repos\FirstOfirstDefault\FirstOfirstDefault\bin\Debug\FirstOfirstDefault.exe
+C:\Users\Dayan\source\repos\FirstOfirstDefault\FirstOfirstDefault\bin\Debug\FirstOfirstDefault.pdb
+C:\Users\Dayan\source\repos\FirstOfirstDefault\FirstOfirstDefault\obj\Debug\FirstOfirstDefault.csproj.AssemblyReference.cache
+C:\Users\Dayan\source\repos\FirstOfirstDefault\FirstOfirstDefault\obj\Debug\FirstOfirstDefault.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayan\source\repos\FirstOfirstDefault\FirstOfirstDefault\obj\Debug\FirstOfirstDefault.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\FirstOfirstDefault\FirstOfirstDefault\obj\Debug\FirstOfirstDefault.exe
+C:\Users\Dayan\source\repos\FirstOfirstDefault\FirstOfirstDefault\obj\Debug\FirstOfirstDefault.pdb
